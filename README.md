@@ -29,6 +29,9 @@ Unlike generic foundational models that frequently hallucinate technical paramet
 *   `IndustryGPT_IT_Support_Bot.ipynb`: The complete Google Colab notebook containing data synthesis, tokenization (BPE), training loops, and Gradio deployment logic.
 *   *(Generated upon execution)* `./industrygpt_it_model_final`: The output directory containing the fine-tuned `.safetensors` model weights and specialized tokenizer configurations.
 
+## Research Paper
+The complete 17-page academic research paper detailing the methodology, mathematical architecture, and industry analysis for this project can be viewed here.
+
 ## Usage Example
 **User Input Query:**  
 `How do I clear docker system cache to free up disk space?`
